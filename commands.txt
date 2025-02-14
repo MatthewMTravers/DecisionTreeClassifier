@@ -1,0 +1,3 @@
+Sample:
+
+python trainDT.py -train_data train_data.txt -train_label train_label.txt -test_data test_data.txt -nlevels 5 -pthrd 0.1 -impurity gini -pred_file output.txt
